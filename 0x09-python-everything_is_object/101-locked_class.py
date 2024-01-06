@@ -8,4 +8,4 @@ class Lockclass:
     for anything but attribute called 'first_name'.
     """
 
-    __slots___ = ["first_name"]
+    _ _slots_ _ = ["first_name"]
